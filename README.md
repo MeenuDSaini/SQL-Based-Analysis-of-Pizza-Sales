@@ -11,14 +11,22 @@ The aim of this project is to utilize SQL for analyzing a year's worth of pizza 
 Import and structure the data in a relational database.
 Ensure data integrity and consistency through normalization and constraints.
 
-### Sales Analysis:
-
-- Identify the best-selling pizzas by type, size, and category.
-- Analyze sales trends over time (daily, weekly, monthly).
-- Determine peak sales hours and days.
-
-### Revenue Analysis:
-
+### Sales and Revenue Analysis:
+- Retrieve the total number of orders placed.
+- Total revenue generated from pizza sale.
+- Identify the highest price pizza.
+- Identify the best-selling pizzas by type, size, and category by quantity.
+- Identify best seller pizza on the base of revenue.
+- List the 5 most ordered types along with their quantity.
+- Identify the total quantity of each pizza category ordered.
+- Find categorywise distribution of pizzas.
+- calculate the average number of pizzas ordered per day/ per week / per month.
+- Determine the distribution of orders by hours of the day or peak sales hours.
+- Determine day of the week with the highest number of orders.
+- Determine the top 3 most ordered pizza types based on revenue.
+- Calculate the percentage contribution of each pizza type to total revenue.
+-  Analyze cumulative revenue generated over time.
+-  Determine the top 3 most ordered pizza types based on revenue for each pizza category.
 - Calculate total revenue and average revenue per order.
 - Compare revenue across different pizza types, sizes, and categories.
 
