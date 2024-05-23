@@ -13,24 +13,24 @@ Ensure data integrity and consistency through normalization and constraints.
 
 ### Sales Analysis:
 
-Identify the best-selling pizzas by type, size, and category.
-Analyze sales trends over time (daily, weekly, monthly).
-Determine peak sales hours and days.
+- Identify the best-selling pizzas by type, size, and category.
+- Analyze sales trends over time (daily, weekly, monthly).
+- Determine peak sales hours and days.
 
 ### Revenue Analysis:
 
-Calculate total revenue and average revenue per order.
-Compare revenue across different pizza types, sizes, and categories.
+- Calculate total revenue and average revenue per order.
+- Compare revenue across different pizza types, sizes, and categories.
 
 ### Customer Preferences:
 
-Identify the most popular pizza ingredients and combinations.
-Analyze customer preferences for pizza size and type.
+- Identify the most popular pizza ingredients and combinations.
+- Analyze customer preferences for pizza size and type.
 
 ### Operational Insights:
 
-Determine the average order size and quantity of pizzas ordered.
-Analyze order patterns to optimize kitchen operations and inventory management.
+- Determine the average order size and quantity of pizzas ordered.
+- Analyze order patterns to optimize kitchen operations and inventory management.
 
 ### Reporting and Visualization:
 
