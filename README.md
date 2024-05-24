@@ -27,12 +27,11 @@ Ensure data integrity and consistency through normalization and constraints.
 - Calculate the percentage contribution of each pizza type to total revenue.
 -  Analyze cumulative revenue generated over time.
 -  Determine the top 3 most ordered pizza types based on revenue for each pizza category.
-- Calculate total revenue and average revenue per order.
-- Compare revenue across different pizza types, sizes, and categories.
+- Compare revenue across different pizza names, sizes, and categories.
 
 ### Customer Preferences:
 
-- Identify the most popular pizza ingredients and combinations.
+- Identify the most popular pizza ingredients of each category.
 - Analyze customer preferences for pizza size and type.
 
 ### Operational Insights:
