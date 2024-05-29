@@ -42,7 +42,6 @@ Ensure data integrity and consistency through normalization and constraints.
 ### Reporting and Visualization:
 
 Create SQL queries to extract key insights and metrics.
-Use SQL reporting tools or BI tools like Power BI for visualizations.
 
 ## Dataset Description:
 The dataset downloaded from Kaggle, contains detailed records of pizza sales over a year, including the date and time of each order, types and sizes of pizzas ordered, quantities, prices, and ingredients.
@@ -111,9 +110,21 @@ The dataset downloaded from Kaggle, contains detailed records of pizza sales ove
 
 ## SQL queries for Analysis:
 - Create SQL queries for analysis using MYSQL workbench.
-- Detailed SQL queries can be found in the SQL Analysis file.
+- Detailed SQL queries can be found in the SQL file: pizza_sale.
 
 ## Conclusion
 This project provides a comprehensive analysis of pizza sales data using SQL. By setting up a relational database, ensuring data integrity, and performing detailed analysis through SQL queries, we gain valuable insights into sales trends, customer preferences, and operational efficiency.
+
+Key outcomes of the project include:
+
+- Order Volume and Revenue Analysis: Understanding the total number of orders and the revenue generated, which helps in assessing the business performance.
+- Pricing Insights: Identifying the pricing distribution of pizzas to ensure competitive pricing strategies.
+- Best Sellers Identification: Recognizing the most popular pizzas in terms of quantity sold and revenue generated, aiding in inventory and marketing decisions.
+- Sales Patterns: Analyzing peak sales hours and busiest days of the week to optimize staffing and operational efficiency.
+- Category-Wise Distribution: Evaluating the distribution of pizza orders across different categories to understand customer preferences.
+- Average Orders and Revenue Insights: Providing average order metrics to help in forecasting and planning.
+- Customer Preferences: Highlighting the top pizzas in each category and size, guiding menu adjustments to better cater to customer tastes.
+These insights enable data-driven decision-making, helping to optimize operations, enhance customer satisfaction, and drive business growth. The project demonstrates the power of SQL in transforming raw data into actionable business intelligence.
+
 
 
